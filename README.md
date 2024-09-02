@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕ Mainly focused entire Back End development side. Goal is that will be able to make back end for every project with high security and performance.<br>✨Too much things to learn, no waste time.✨<br><br>🎧 Currently write a simple blog project
+☕ Mainly focused entire Back End development side. Goal is that will be able to make back end for every project with high security and performance.<br>✨Too much things to learn, no waste time.✨<br><br>🎧 Currently writing a simple blog project
 
 
 ## 🌐 Socials:
